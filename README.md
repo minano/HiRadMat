@@ -1,6 +1,18 @@
 # HiRadMat
 Code to calculate deposited charge and absorbed dose to devices under a High Charge density (Beam Loss)
 
+Initial configuration
+1. git config --global user.name "USERNAME"
+2. git config --global user.email EMAIL
+3. git config --global color.ui true
+
+Initialization
+1. git init
+2. git status
+
+Clone
+* git clone https://github.com/minano/HiRadMat.git
+* git clone https://github.com/cescobar-cern/HiRadMat.git
 
 Quick help for git:
 
